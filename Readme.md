@@ -1,6 +1,6 @@
 
-Exercícios propostos.
-
+# Exercícios propostos.
+```
 1) Dada a população estimada de alguns estados do nordeste brasileiro, faça:
  Estado = PE - população = 9.616.621
  Estado = AL - população = 3.351.543
@@ -20,8 +20,9 @@ Exercícios propostos.
 -Remova os estados com a população menor que 4.000.000
 -Apague o dicionario de estados
 -Confira se o dicionario está vazio
-
-
+```
+```
 2)Faça um programa que simule um lançamento de dados. Lance o dado 100 
 vezes e armazene.
 Depois, mostre quantas vezes cada valor foi conseguido.
+```
